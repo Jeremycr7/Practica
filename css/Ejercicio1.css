@@ -4,3 +4,5 @@ h1{
 table, th, td {
     border:1px solid black;
   }
+  font-family: Arial, sans-serif;
+  margin: 20px;
